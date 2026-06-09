@@ -1,0 +1,7 @@
+# Bot Menfess Telegram - Dependencies
+# Install: pip install -r requirements.txt
+
+pyrogram==2.0.106
+TgCrypto
+python-dotenv
+pymongo
